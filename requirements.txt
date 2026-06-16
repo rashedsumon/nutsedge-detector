@@ -1,0 +1,6 @@
+streamlit
+kagglehub
+ultralytics
+opencv-python-headless
+pillow
+pyyaml
