@@ -11,7 +11,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🌱 Nutsedge Weed Detector AI")
+st.title("🌱 Nutsedge Weed Prediction")
 st.write("Upload a crop or field photo to detect the presence of invasive Nutsedge weeds.")
 
 # 2. Lazy Load Data/Weights on Streamlit Cloud Startup
